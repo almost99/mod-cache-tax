@@ -1,5 +1,5 @@
    {
-     "name": "kai-mods",
+     "name": "claudecode-mods",
      "owner": { "name": "almost99" },
      "plugins": [
        { "name": "cache-tax", "source": "./" }
