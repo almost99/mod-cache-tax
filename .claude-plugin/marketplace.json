@@ -1,0 +1,7 @@
+   {
+     "name": "kai-mods",
+     "owner": { "name": "almost99" },
+     "plugins": [
+       { "name": "cache-tax", "source": "./" }
+     ]
+   }
